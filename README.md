@@ -7,7 +7,7 @@ Any issues please contact: nicola.dinsdale@cs.ox.ac.uk
 
 Software Versions 
 -----------------
-python = 3.52
+python = 3.5.2
 
 tensorflow = 1.8.0
 
