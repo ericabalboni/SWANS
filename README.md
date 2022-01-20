@@ -8,7 +8,9 @@ Any issues please contact: nicola.dinsdale@cs.ox.ac.uk
 Software Versions 
 -----------------
 python = 3.52
+
 tensorflow = 1.8.0
+
 numpy = 1.14.5
 
 ![GitHub Logo](/figures/network.png)
