@@ -60,4 +60,6 @@ text file containing hippocampal volumes "t1_brain_volumes.txt"
 
 png figure of 3 slices of the segmentation overlapped to T1 image 
 
-
+Example data
+-----------------
+Example data to be used as input can be found in https://neurovault.org/collections/12227/
